@@ -9,7 +9,7 @@
 
 - [is4k: Presentación Privacidad, identidad digital y reputación online](./privacidad_charla_alumnado_0.pdf) 
 
-- [is4k: Guión presentación Privacidad, identidad digital y reputación online](./privacidad_guion_alumnado_0.pdf) 
+- [is4k: Guión presentación Privacidad, identidad digital y reputación online](./privacidad_guion_alumnado.pdf) 
 
 ## Relacionados
 
