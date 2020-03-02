@@ -2,9 +2,9 @@
 # Privacidad, identidad digital y reputación online
 
 ## Actividades
-
-- ### [Teachable Machine](../../actividades/ia/teachable-machine.md): Train a computer to recognize your own images, sounds, & poses.
-
+- ### [Servicios activados](../../actividades/evaluacion/servicios-activados.md)
+- ### [Inteligencia artificial](../../actividades/ia/index.md)
+- ### [Encontrar en Google](../../actividades/privacidad/google-search.md)
 ## Documentos
 
 - [is4k: Presentación Privacidad, identidad digital y reputación online](./privacidad_charla_alumnado_0.pdf) 
